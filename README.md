@@ -36,7 +36,7 @@ GET /api/profilevents/<userId>: Return list of events in user profile.<br/>
 POST /api/<calendarId>/events: Creating event in calendar.<br/>
 DELETE /api/<eventId>/events: Delete an event.<br/>
 
-#Calendar Module:<br/>
+# Calendar Module:<br/>
 DELETE /api/<calendarId>/calendars: Delete calendar.<br/>
 POST/api/<userId>/calendars: Creating calendar.<br/>
 GET /api/<calendarID>/userslist: Returns list of users available for adding in calendar.<br/>
